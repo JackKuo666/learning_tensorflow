@@ -1,2 +1,2 @@
 # learning_tensorflow
-This is my notbook about learning tensorflow.
+This is my notebook about learning tensorflow.
